@@ -10,7 +10,7 @@ gcloud auth login
 gcloud config set project eighth-saga-455617-g4
 
 ```bash
-gcloud auth login
+gcloud config set project eighth-saga-455617-g4 
 
 ```
 3. Verificamos la configuracion de la CLI
